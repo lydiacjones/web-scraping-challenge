@@ -1,6 +1,6 @@
 # Web Scraping Homework - Mission to Mars
 
-![mission_to_mars](/Mission_to_Mars/Images/mission_to_mars.png)
+![mission_to_mars](Mission_to_Mars/Images/mission_to_mars.png)
 
  - Jupyter Notebook
  - BeautifulSoup
