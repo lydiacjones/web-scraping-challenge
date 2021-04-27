@@ -81,5 +81,5 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 ## Final Webpage:
 
-![final_app_part1.png](Missions_to_Mars/Images/final_app_part1.png)
-![final_app_part2.png](Missions_to_Mars/Images/final_app_part2.png)
+![final_app_part1.png](Missions_to_Mars/Images/Lydia's_Webpage_Top.png)
+![final_app_part2.png](Missions_to_Mars/Images/Lydia's_Webpage.png)
