@@ -6,6 +6,8 @@
  - BeautifulSoup
  - Pandas
  - Requests/selenium.
+ - Flask
+ - HTML/CSS
 
 ## Step 1 - Scraping
 
